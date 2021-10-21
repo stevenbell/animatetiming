@@ -1,0 +1,6 @@
+{
+  "vcdfile":"result.vcd",
+  "svgtemplate":"andgate.svg",
+  "mapping":{"andsim.a":"a", "andsim.b":"b", "andsim.y":"y"},
+  "colors":{"0":"#2e5d01", "1":"#6dc01c", "u":"#a0a0a0"}
+}

@@ -1,0 +1,15 @@
+{
+  "vcdfile":"result.vcd",
+  "svgtemplate":"fulladder.svg",
+  "mapping":{
+"test_fulladder.fa0.a":"a0",
+"test_fulladder.fa0.b":"b0",
+"test_fulladder.fa0.cin":"cin0",
+"test_fulladder.fa0.r":"r0",
+"test_fulladder.fa0.cout":"c0",
+"test_fulladder.fa0.axorb":"axorb",
+"test_fulladder.fa0.aandb":"aandb",
+"test_fulladder.fa0.candaxorb":"candaxorb"
+  },
+  "colors":{"0":"#2e5d01", "1":"#6dc01c", "u":"#a0a0a0"}
+}
